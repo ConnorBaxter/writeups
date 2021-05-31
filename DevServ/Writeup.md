@@ -1,4 +1,4 @@
-# DevServ Writeup - Connor Baxter
+# DevServ Writeup
 
 ## Nmap scan
 
